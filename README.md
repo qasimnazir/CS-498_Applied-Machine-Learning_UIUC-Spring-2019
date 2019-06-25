@@ -34,3 +34,25 @@ Deep Networks
 
 Boosting
 - A Little Learning Theory
+
+### HW Information: 
+
+**HW01:** Classification with Naive Bayes
+
+**HW02:** Classification with Support Vector Machine
+
+**HW03:** Smoothing Noise with PCA
+
+**HW04:** More PCA
+
+**HW05:** Classifying with Variable Length Inputs (Vector Quantization)
+
+**HW06:** Outlier Detection
+
+**HW07:** Text bag-of-words Search and classification
+
+**HW08:** Classification with Artificial Neural Networks
+
+**HW09:** Variational Autoencoders
+
+**HW10:** Deep Neural Networks
